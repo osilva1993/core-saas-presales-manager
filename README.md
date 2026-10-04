@@ -7,6 +7,8 @@
 
 > **Agente Autônomo B2B de Inteligência Comercial e Pré-Vendas**, projetado para automatizar a pesquisa de prospects, consolidação de sinais de mercado e geração de dossiês estratégicos com cadência multicanal em menos de 5 segundos.
 
+Link: https://core-saas-presales-manager-pqofo3pofqxjlhxxhmdrk2.streamlit.app/
+
 ---
 
 ## 💡 O Problema & O Impacto no Dia a Dia de Vendas
