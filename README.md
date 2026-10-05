@@ -9,7 +9,7 @@
 
 Link: https://core-saas-presales-manager-pqofo3pofqxjlhxxhmdrk2.streamlit.app/
 
-> 💡 **Nota de Demonstração:** O link acima refere-se a um ambiente de testes criado exclusivamente para avaliação funcional da arquitetura do **CoreSaaS Pre-Sales Manager — Agentic AI Copilot**. O perfil do lead, critérios de qualificação (como BANT/CHAMP), e dados de empresas são **100% sintéticos (mock data)**, projetados para simular cenários reais de prospecção e qualificação B2B sem comprometer a privacidade ou informações confidenciais.
+> **Nota de Demonstração:** O link acima refere-se a um ambiente de testes criado exclusivamente para avaliação funcional da arquitetura do **CoreSaaS Pre-Sales Manager — Agentic AI Copilot**. O perfil do lead, critérios de qualificação (como BANT/SPIN), e dados de empresas são **100% sintéticos (mock data)**, projetados para simular cenários reais de prospecção e qualificação B2B sem comprometer a privacidade ou informações confidenciais.
 
 ---
 
